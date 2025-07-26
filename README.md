@@ -1,3 +1,4 @@
+(Finished)
 Hello there 
 in this project i tried to build a linear regression model from scratch using numpy.
 for error reduction i used evolution technique.
